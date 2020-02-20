@@ -16,5 +16,8 @@
     "eject": "react-scripts eject"
   },
   "keywords": [],
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "gh-pages": "^2.2.0"
+  }
 }
